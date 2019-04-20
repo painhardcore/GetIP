@@ -1,7 +1,8 @@
 [package]
 name = "getip"
 version = "0.1.0"
-authors = ["kotey"]
+authors = ["painhardcore"]
 edition = "2018"
 
 [dependencies]
+clap = "2.33"
